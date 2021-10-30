@@ -35,7 +35,6 @@ Comecei a programar com 16 anos por curiosidade, e acabei descobrindo uma enorme
     <p align = "center">   
         <img src = "https://github-readme-stats.vercel.app/api?username=doardin&show_icons=true&theme=omni&bg_color=191622&icon_color=006400&text_color=E1E1E6&point=E1E1E6&&hide_border=true"/>
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doardin&theme=omni&bg_color=191622&text_color=E1E1E6&hide_border=true(https://github.com/anuraghazra/github-readme-stats)"/>
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?username=doardin&show_icons=true&locale=en&layout=compact&background=191622&hide_border=true&stroke=E1E1E6&ring=E1E1E6&fire=E1E1E6&currStreakNum=E1E1E6&sideNums=E1E1E6&currStreakLabel=E1E1E6&sideLabels=E1E1E6&dates=E1E1E6(https://git.io/streak-stats)" />
     </p> 
     <p align = "center">
         <img src="https://activity-graph.herokuapp.com/graph?username=doardin&bg_color=191622&line=E96379&color=E1E1E6&point=00000000&area=true&area_color=988BC7&hide_border=true(https://github.com/ashutosh00710/github-readme-activity-graph)" />
