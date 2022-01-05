@@ -1,7 +1,7 @@
 <img src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador guusfelix2015">
 
 
-<h1> Olá, eu sou o Eduardo, mas pode me chamar de Dadin. </h1>
+<h1> Olá, eu sou o Eduardo Lopes, tenho 19 anos e atualmente trabalho como Back-end.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doardin/)](https://www.linkedin.com/in/doardin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.lopes234@gmail.com)](mailto:eduardo.lopes234@gmail.com)
@@ -9,7 +9,7 @@
 Comecei a programar com 16 anos por curiosidade, e acabei descobrindo uma enorme paixão por desenvolvimento de software
 - 💻 Desenvolvedor Back-End na [Hexalab Soluções em Software](https://hexalab.com.br/web/)
 - ⚡ **Conhecimentos**: Java, NodeJS, SpringBoot, Typescript, Git, MySQL, PostgreSQL.
-- 🚀  **Meus Objetivos**: Aprender mais sobre desenvolvimento de software, ensinar quem está aprendendo e quem sabe um dia ser inspiração de alguém
+- 🚀  **Meus Objetivos**: Aprender mais sobre desenvolvimento de software, ensinar quem está aprendendo e quem sabe um dia ser inspiração de alguém.
 
 ### Languages and Tools
 
