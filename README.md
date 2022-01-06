@@ -3,6 +3,7 @@
 
 <h1> Olá, eu sou o Eduardo Lopes, tenho 19 anos e atualmente trabalho como Back-end.</h1>
 
+![](https://visitor-badge.glitch.me/badge?page_id=doardin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doardin/)](https://www.linkedin.com/in/doardin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.lopes234@gmail.com)](mailto:eduardo.lopes234@gmail.com)
 
