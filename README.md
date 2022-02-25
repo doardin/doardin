@@ -1,7 +1,7 @@
 <img src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador guusfelix2015">
 
 
-<h1> Olá, eu sou o Eduardo Lopes, tenho 19 anos e atualmente trabalho como Back-end.</h1>
+<h1> Olá, eu sou o Eduardo Lopes, tenho 20 anos e atualmente trabalho como Back-end.</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=doardin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doardin/)](https://www.linkedin.com/in/doardin/)
